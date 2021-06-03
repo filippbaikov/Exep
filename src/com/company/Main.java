@@ -19,7 +19,7 @@ public class Main {
             }
         }
         catch (MyArrayDataException e) {
-            System.out.println("Тебе сказали цифры лепи, !");
+            System.out.println("Тебе сказали цифры лепи!");
             System.out.println("Ошибка : координаты: " + e.i + "x" + e.j);
         }
 
