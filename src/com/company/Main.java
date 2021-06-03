@@ -9,7 +9,7 @@ import static java.lang.Integer.*;
 public class Main {
 
     public static void main(String[] args) {
-        String[][] arr = new String[][]{{"1", "2", "3", "4",}, {"2", "10", "2", "7"}, {"1", "2", "2", "2"}, {"2", "2", "2", "2"}};
+        String[][] arr = new String[][]{{"17", "21", "73", "4",}, {"2", "18", "2", "27"}, {"1", "25", "2", "26"}, {"2", "2", "2", "2"}};
         try {
             try {
                 int result = method(arr);
